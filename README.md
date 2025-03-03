@@ -36,4 +36,10 @@ pip install pgzero pygame
 ## Tela de Game Over
 
 ![Saida Invalida](https://github.com/erickNunes000/AliensVersusOrcsGame/blob/main/images/game_over.png)
+
+# Autor
+
+Erico Fernandes Nunes
+
+https://www.linkedin.com/in/erico-fernandes-3461a8231/
     
