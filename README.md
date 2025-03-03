@@ -22,9 +22,20 @@ Aliens vs Orcs é um jogo de plataforma onde você controla um herói alienígen
 pip install pgzero pygame
 
 ```bash
-  //entrar na pasta
+  # entrar na pasta
   cd AliensVersusOrcsGame
-  // iniciar o jogo execute o arquivo  game.py 
+  # iniciar o jogo execute o arquivo  game.py 
   py game.py
 ```
+# Imagens do Jogo em execução
+## Menu
+![Menu inicial](https://github.com/erickNunes000/AliensVersusOrcsGame/blob/main/images/menu.png)
+
+## Inicio 
+
+![Inicio do jogo](https://github.com/erickNunes000/AliensVersusOrcsGame/blob/main/images/inicio.png)
+
+## Tela de Game Over
+
+![Saida Invalida](https://github.com/erickNunes000/AliensVersusOrcsGame/blob/main/images/game_over.png)
     
